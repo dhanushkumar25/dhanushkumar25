@@ -21,3 +21,5 @@ Information Science Engineering Student @ Cambridge Institute Of Technology
 [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushkumar25&bg_color=090b10&color=9e4c98&line=4c9e56&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Dhanush'sGitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushkumar25)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkumar25&layout=donut-vertical)](https://github.com/dhanushkumar25/github-readme-stats)
