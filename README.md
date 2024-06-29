@@ -20,3 +20,4 @@ Information Science Engineering Student @ Cambridge Institute Of Technology
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Dhanush_25?theme=dark&font=Marcellus)
 [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushkumar25&bg_color=090b10&color=9e4c98&line=4c9e56&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Dhanush's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<dhanush1y2c>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
