@@ -18,6 +18,7 @@ My Coding Profile :
 
 
 <br />
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=flat-square)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://auth.geeksforgeeks.org/user/dhanush1y2c/)
 
 
